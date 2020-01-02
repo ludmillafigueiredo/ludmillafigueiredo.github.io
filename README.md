@@ -1,2 +1,1 @@
-# ludmillafigueiredo.github.io
-CV webpage
+# Personal webpage
