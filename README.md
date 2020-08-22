@@ -9,11 +9,6 @@ Personal details
 ----------------
 ![cv headshot](./pictures/cv_headshot.jpg)
 
-
-Kirchbühlstraße, 24             
-97074 - Würzburg, Germany 
-
-+49 0931 31 89898
 ludmillafi@gmail.com
 
 Education & Professional experience
