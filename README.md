@@ -79,6 +79,7 @@ Part of the organizing team
 
 ### Hobbys
 
-+ Martial arts (Kickboxing instructor at [Female Fighters](https://www.femalefighters.de/))
++ Martial arts
++ Weightlifting
 + Cinema 
-+ Guitar playing
++ Guitar
