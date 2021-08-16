@@ -1,0 +1,158 @@
+---
+title: "Ludmilla Figueiredo, PhD."
+output: github_document
+---
+
+# Publications
+
+Figueiredo, L., Krauss, J., Steffan‐Dewenter, I., & Cabral, J. S. (2019). Understanding      extinction debts: spatio–temporal scales, mechanisms and a roadmap for future research. Ecography, 42(12), 1973–1990. https://doi.org/10.1111/ecog.04740
+
+
+# Academic activity
+
++--------------------+--------------------------------------------------------+
+| 05-30 Jul 2021     | **Mentor**                                             |
+|                    |                                                        |
+|                    | [Training Program in Quantitative Biology and Ecology](https://www.ictp-saifr.org/qbioprogram/) |
+|                    |                                                        |
+|                    | Serrapilheira Institute/ICTP-SAIFR                     |
++--------------------+--------------------------------------------------------+
+| Apr 2021 - present | **Postdoc researcher**                                 |
+|                    |                                                        |
+|                    | Ecosystem modeling group, Center for Computational and Theoretical Biology |
+|                    |                                                        |
+|                    | University of Würzburg,Germany                         |
++--------------------+--------------------------------------------------------+
+| Oct 2020 - Mar 2021 | **Scientific researcher**                             |
+|                    |                                                        |
+|                    | Department of Ecological Dynamics, Population dynamics team |
+|                    |                                                        |
+|                    | Leibniz Institute  for Zoo- and Wildlife research      |
++--------------------+--------------------------------------------------------+
+| 2017-2020          | **PhD student**                                        |
+|                    |                                                        |
+|                    | *Thesis title:* "Extinction debt of plants, insects and biotic interactions: interactive effects of habitat fragmentation and climate change" |
+|                    | University of Würzburg, Germany                        |
++--------------------+--------------------------------------------------------+
+| 2014-2015          | **Master's Degree**                                    | 
+|                    |                                                        |
+|                    | Biodiversity, Ecology, Environnment -- Emphasis in Ecological Modelling |
+|                    |                                                        |
+|                    | Université de Rennes 1, France                         |
++--------------------+--------------------------------------------------------+
+| Jan-Jun 2015       | *Thesis title:* "Test of the *General Lake Model* and the *Aquatic EcoDynamics Library*: Application to a meromictic lake" |
+|                    |                                                        |
+|                    | (Master 2 thesis -- conducted during the 2^nd^ year of formation) |
+|                    |                                                        |
+|                    | Unity Research in Ecology, Evolution and Biodiversity  |
+|                    |                                                        |
+|                    | Université de Rennes 1, France                         |
++--------------------+--------------------------------------------------------+
+| Apr-Jun 2014       | *Thesis title:* "Seasonal population dynamics and demography of *Leiothrix spirallis"* |
+|                    |                                                        |
+|                    | (Master 1 thesis -- conducted during the 1^st^ year of formation) |
+|                    |                                                        |
+|                    | Population Ecology Laboratory, Biological Sciences Institute |
+|                    |                                                        |
+|                    | Universidade Federal de Minas Gerais, Brasil           |
++--------------------+--------------------------------------------------------+
+| 2008 - 2013        | **Bachelor of Biological Sciences**                    |
+|                    |                                                        |
+|                    | *Thesis title*: "Asexual proliferation of *Leiothrix vivipara* (Eriocaulaceae), in a vegetational gradient at the rupestrian  grasslands"|
+|                    |                                                        |    
+|                    | Population Ecology Laboratory, Biological Sciences Institute |
+|                    |                                                        |
+|                    | Universidade Federal de Minas Gerais, Brasil           |
++--------------------+--------------------------------------------------------+
+
+# Skills
+
++----------------------+------------------------------------------------------+
+| Languages            | Portuguese (native), English (fluent), French (fluent), German (intermediary), Spanish (elementary) |
++----------------------+------------------------------------------------------+
+| Computational skills | Programming languages: R, Julia                      |
+|                      |                                                      |
+|                      | Individual-based programming; data analysis and visualization in R; model documentation and version control; application of principles of open science in scientific                                      |
++----------------------+------------------------------------------------------+
+
+# Awards
+
+Winner of the The Ecography Award for Excellence in Ecology and Evolution, 2019: Figueiredo et al. (2019).
+
+# Fellowships
+
+Fellow at the "Freies Wissen" mentoring program. Wikimedia Deutschland, Oct 2020 -- June 2021
+
+# Invited speaker
+
+*Talk*: "Extinction debts: ecological processes behind delayed extinctions and how we study them"
+
+State of the World\'s Plants and Fungi Virtual Symposium, October 2020 
+
+Organized by the Kew Royal Botanical Gardens, England
+
+# Services 
+
++-------------------------+---------------------------------------------------+
+| Conference organization | 14th Workshop of the Young Modellers in Ecology (YoMos) , May 2019 Göttingen, Germany|
+|                         |                                                   |
+|                         | 15th Workshop of the Young Modellers in Ecology (YoMos) , May 2020 (Online)|
++-------------------------+---------------------------------------------------+
+| Manuscript review       | Biological Conservation, Ecological Research, Ecography,  Scientific reports|
++-------------------------+---------------------------------------------------+
+
+# Conference participation
+
++-----------------------------------------------------------------------------+
+| Macroecology 2019 - Bridging local patterns and global challenges           |
+|                    |                                                        |
+| March 2019, Würzburg, Germany                                               |
+|                                                                             |
+| Specialist group Macroecology of the Ecological Society of Germany, Austria, and Switzerland (GfÖ)|
+|                                                                             |
+| Oral presentation: "Mechanisms of extinction debt acrossspatio-temporal scales and ecological levels"|
++-----------------------------------------------------------------------------+
+| The Second joint Congress on Evolutionary Biology                           |
+|                    |                                                        |
+| August 2018, Montpellier, France                                            |
+|                                                                             |
+| Poster presentation: "Eco-evolutionary dynamics during relaxation time"     |
++-----------------------------------------------------------------------------+
+| Macroecology in the Age of Big Data                                         |
+|                    |                                                        |
+| April 2018, Zurich, Switzerland                                            |
+|                                                                             |
+| Specialist group Macroecology of the Ecological Society of Germany          |
+| Austria, and Switzerland (GfÖ)                                              |
+|                                                                             |
+| Poster presentation: "Mechanisms of Extinction Debt in Metacommunities"     |
++-----------------------------------------------------------------------------+
+| Ecology Across Borders                                                      |
+|                    |                                                        |
+| December 2017, Ghent,  Belgium                                              |
+|                                                                             |
+| Joint Annual Meeting with British Ecological Society, Ecological Society of Germany, Austria and Switzerland (GfÖ), Nederlands-Vlaamse vereniging voorecologie (NecoV)|
+|                                                                             |
+| Poster presentation: "Mechanisms of extinction debts across ecological levels"|
++-----------------------------------------------------------------------------+
+
+<!-- # Further training -->
+
+<!-- +-----------------------------------------------------------------------------+ -->
+<!-- | Mentee at the Scientia Mentoring program hosted by the Gender Equality Academy of the University of Würzburg, Nov 2020 -- Apr 2022 | -->
+<!-- +-----------------------------------------------------------------------------+ -->
+<!-- | Summer School "Bayesian Modelling: An Introduction for Ecologists and Environmental Scientists", Sep 2017                              | -->
+<!-- |                                                                      | -->
+<!-- | Dr. Joseph Chipperfield, Prof. Florian Hartig, Dr. Jörn Pagel,       | -->
+<!-- | Norwegian University of Life Sciences - Lygra Island, Norway         | -->
+<!-- +----------------------------------------------------------------------+ -->
+<!-- | Workshop "The construction, calibration and evaluation of            | -->
+<!-- | Individual-Based Models", Dec 2017                                   | -->
+<!-- |                                                                      | -->
+<!-- | Prof. Richard Sibly- British Ecology Society                         | -->
+<!-- +----------------------------------------------------------------------+ -->
+<!-- | Workshop "Software Carpentry for Beginners", Jul 2017                | -->
+<!-- |                                                                      | -->
+<!-- | Konrad Förstner, Markus Ankenbrand - Graduate School of Life         | -->
+<!-- | Sciences, University of Würzburg                                     | -->
+<!-- +----------------------------------------------------------------------+ -->
