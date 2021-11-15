@@ -14,7 +14,7 @@ output:
  
 I am a postdoc working to understanding how ecosystems change during the payment of [extinction debts](https://www.youtube.com/watch?v=NUgmctx6OlM) at the [Ecosystem modeling group](https://www.biozentrum.uni-wuerzburg.de/cctb/research/ecosystem-modeling/) of the University of Würzburg.
 
-I am also an embassador for the ["Freies Wissen"](https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Fellows2020) Open Science mentoring program, coordinated by Wikimedia Deutschland. 
+I am also a former mentee and thus current embassador for the ["Freies Wissen"](https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Fellows2020) Open Science mentoring program, coordinated by Wikimedia Deutschland. 
 You can have a look at the tool I developed to facilitate the implementation of reproducible workflows in reasearch [here](https://github.com/ludmillafigueiredo/computational_notebooks).
 
 Moreover, I keep this [repository with useful resources on Computational Biology](https://github.com/ludmillafigueiredo/useful_stuff). This is slowly growing and sporadically updated. Let me know if there is anything you would like to see there, but bare in mind I do it on my free time.
