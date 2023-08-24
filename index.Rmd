@@ -12,11 +12,13 @@ output:
   postcards::jolla
 ---
  
-I am a postdoc working to understanding how ecosystems change during the payment of [extinction debts](https://www.youtube.com/watch?v=NUgmctx6OlM) at the [Ecosystem modeling group](https://www.biozentrum.uni-wuerzburg.de/cctb/research/ecosystem-modeling/) of the University of Würzburg.
+I am the Data & Code Curator for [iDiv's Data Portal](https://www.idiv.de/de/forschung/plattformen.html#27).
 
-I am also a former mentee and thus current embassador for the ["Freies Wissen"](https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Fellows2020) Open Science mentoring program, coordinated by Wikimedia Deutschland. 
-You can have a look at the tool I developed to facilitate the implementation of reproducible workflows in reasearch [here](https://github.com/ludmillafigueiredo/computational_notebooks).
+Previously, I worked, as a PhD and Postdoc, on understanding how ecosystems change during the payment of [extinction debts](https://www.youtube.com/watch?v=NUgmctx6OlM) at [the Zoo III and the Ecosystem modeling groups](https://www.biozentrum.uni-wuerzburg.de/cctb/research/ecosystem-modeling/) at the University of Würzburg.
 
-Moreover, I keep this [repository with useful resources on Computational Biology](https://github.com/ludmillafigueiredo/useful_stuff). This is slowly growing and sporadically updated. Let me know if there is anything you would like to see there, but bare in mind I do it on my free time.
+I am also a former mentee and for the ["Freies Wissen"](https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Fellows2020) Open Science mentoring program, coordinated by Wikimedia Deutschland. 
+As part of the program, we developed a [starter-kit](https://github.com/FellowsFreiesWissen/computational_notebooks) to facilitate the implementation of reproducible workflows in research. You can read about it in greater detail in the [accompanying paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010356).
+
+Moreover, I keep this [repository with useful resources on Computational Biology](https://github.com/ludmillafigueiredo/useful_stuff). This is slowly growing and sporadically updated. Let me know if there is anything you would like to see there, but bear in mind I do it in my free time.
 
 [Long CV](https://github.com/ludmillafigueiredo/ludmillafigueiredo.github.io/blob/master/cv.md)
